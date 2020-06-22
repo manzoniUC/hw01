@@ -2,6 +2,6 @@
 
 Hello world. My name is Marc-Antoine Manzoni.
 I'm a second (soon to be third year) in *The College*.
-I am majoring in History.
+I am majoring in History, and minoring in East Asian Languages and Culture (EALC).
 
 
