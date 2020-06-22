@@ -1,4 +1,4 @@
 # hw01
 
-My name is Marc-Antoine Manzoni.
-Testing.
+Hello world! My name is Marc-Antoine Manzoni.
+I am a second (soon to be third) year in *The College*.
